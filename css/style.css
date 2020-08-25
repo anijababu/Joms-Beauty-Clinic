@@ -161,8 +161,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
 /*-- banner --*/
 
 .banner-w3l {
-    /* background: url(../images/bg1.jpg) no-repeat right; */
-    background: url(../images/bg1.jpg) no-repeat center center fixed;
+   background: url(../images/bg1.jpg) no-repeat right; 
+    /*  background: url(../images/bg1.jpg) no-repeat center center fixed;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
